@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "gh-pages -d docs/dist"
+    "deploy": "gh-pages -d docs/.vuepress/dist"
   },
   "keywords": [],
   "author": "",
