@@ -5,7 +5,7 @@
 cd 到 eng_gram_api 再执行以下操作
 
 # 安装依赖
-npm i
+yarn
 
 # 执行打包命令
 yarn build
